@@ -3,8 +3,7 @@
 |key|value|
 |---|-----|
 |Name|友成　和希|
-|Blog|[友成　和希](https://www.wantedly.com/id/kazuki_tomonari)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|wantedly|[友成　和希](https://www.wantedly.com/id/kazuki_tomonari)|
 
 ## スキル
 ### 言語
