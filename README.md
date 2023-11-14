@@ -1,16 +1,26 @@
-### Hi there 👋
+### 基本情報
 
-<!--
-**b-forme-tomonari/b-forme-tomonari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|key|value|
+|---|-----|
+|Name|友成　和希|
+|Blog|[友成　和希](https://www.wantedly.com/id/kazuki_tomonari)|
+|Twitter|[@foobar](https://twitter.com/foobar)|
 
-Here are some ideas to get you started:
+## スキル
+### 言語
+- Java
+- JavaScript
+- TypeScript
+- Kotlin
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### フレームワーク
+
+- Spring Boot
+- React
+- Next.js
+
+### コンテナ
+
+- Docker
+- Kubernetes
